@@ -1,0 +1,4 @@
+﻿  mainwindow.cpp
+C:\Users\Jason\Desktop\Projects\Qt\PvZHook\mainwindow.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jason\Desktop\Projects\Qt\PvZHook\mainwindow.cpp(40,60): warning C4390: ';': empty controlled statement found; is this the intent?
+  PvZHook.vcxproj -> C:\Users\Jason\Desktop\Projects\Qt\PvZHook\debug\PvZHook.exe
